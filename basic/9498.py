@@ -1,4 +1,5 @@
 #https://www.acmicpc.net/problem/9498
+
 n=int(input())
 print('A') if n>=90 and n<=100 else 0
 print('B') if n>=80 and n<=89 else 0
